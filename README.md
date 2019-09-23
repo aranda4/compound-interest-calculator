@@ -2,6 +2,6 @@
 
 Class: DES350 - Digital Media Design IV
 
-By: Joe Parcellano
+By: Anthony Randazzo
 
 A simple compound interest calculator.
